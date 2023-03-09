@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(250, 228, 238);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(131, 20, 57);
+}
+h2{
+    color: rgb(131, 20, 57);
+    text-align: center;
+    border: 2px rgb(94, 73, 94);
+    border-style: inset;
+    text-shadow: 1px 2px 2px rebeccapurple;
+    font-size: 30px;
+    background-color: rgb(241, 199, 238);
+}
+li{
+    list-style-type: square;
+}
+h1{
+    color: rgb(131, 20, 57);
+    text-shadow: 1px 2px 2px rebeccapurple;
+    text-decoration: underline;
+    border: 2px ;
+}
+a{
+    color:rgb(248, 17, 94)
+}
